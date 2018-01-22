@@ -1,0 +1,5 @@
+C:\Users\jh145216\AppData\Local\Temporary Projects\C1 Case 1\bin\Debug\C1 Case 1.exe.config
+C:\Users\jh145216\AppData\Local\Temporary Projects\C1 Case 1\bin\Debug\C1 Case 1.exe
+C:\Users\jh145216\AppData\Local\Temporary Projects\C1 Case 1\bin\Debug\C1 Case 1.pdb
+C:\Users\jh145216\AppData\Local\Temporary Projects\C1 Case 1\obj\Debug\C1 Case 1.exe
+C:\Users\jh145216\AppData\Local\Temporary Projects\C1 Case 1\obj\Debug\C1 Case 1.pdb
