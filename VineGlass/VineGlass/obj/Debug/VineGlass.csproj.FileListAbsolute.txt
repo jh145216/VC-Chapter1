@@ -1,0 +1,12 @@
+C:\Users\jh145216\AppData\Local\Temporary Projects\VineGlass\bin\Debug\VineGlass.exe.config
+C:\Users\jh145216\AppData\Local\Temporary Projects\VineGlass\obj\Debug\VineGlass.csprojResolveAssemblyReference.cache
+C:\Users\jh145216\AppData\Local\Temporary Projects\VineGlass\bin\Debug\VineGlass.exe
+C:\Users\jh145216\AppData\Local\Temporary Projects\VineGlass\bin\Debug\VineGlass.pdb
+C:\Users\jh145216\AppData\Local\Temporary Projects\VineGlass\obj\Debug\VineGlass.exe
+C:\Users\jh145216\AppData\Local\Temporary Projects\VineGlass\obj\Debug\VineGlass.pdb
+C:\Users\jh145216\Desktop\Visual C#\VineGlass\VineGlass\bin\Debug\VineGlass.exe.config
+C:\Users\jh145216\Desktop\Visual C#\VineGlass\VineGlass\obj\Debug\VineGlass.exe
+C:\Users\jh145216\Desktop\Visual C#\VineGlass\VineGlass\obj\Debug\VineGlass.pdb
+C:\Users\jh145216\Desktop\Visual C#\VineGlass\VineGlass\bin\Debug\VineGlass.exe
+C:\Users\jh145216\Desktop\Visual C#\VineGlass\VineGlass\bin\Debug\VineGlass.pdb
+C:\Users\jh145216\Desktop\Visual C#\VineGlass\VineGlass\obj\Debug\VineGlass.csprojResolveAssemblyReference.cache
