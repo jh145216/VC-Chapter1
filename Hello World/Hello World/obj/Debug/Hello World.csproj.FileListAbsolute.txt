@@ -1,0 +1,12 @@
+C:\Users\jh145216\AppData\Local\Temporary Projects\Hello World\bin\Debug\Hello World.exe.config
+C:\Users\jh145216\AppData\Local\Temporary Projects\Hello World\bin\Debug\Hello World.exe
+C:\Users\jh145216\AppData\Local\Temporary Projects\Hello World\bin\Debug\Hello World.pdb
+C:\Users\jh145216\AppData\Local\Temporary Projects\Hello World\obj\Debug\Hello World.csprojResolveAssemblyReference.cache
+C:\Users\jh145216\AppData\Local\Temporary Projects\Hello World\obj\Debug\Hello World.exe
+C:\Users\jh145216\AppData\Local\Temporary Projects\Hello World\obj\Debug\Hello World.pdb
+C:\Users\jh145216\Desktop\Visual C#\Hello World\Hello World\bin\Debug\Hello World.exe.config
+C:\Users\jh145216\Desktop\Visual C#\Hello World\Hello World\obj\Debug\Hello World.exe
+C:\Users\jh145216\Desktop\Visual C#\Hello World\Hello World\obj\Debug\Hello World.pdb
+C:\Users\jh145216\Desktop\Visual C#\Hello World\Hello World\bin\Debug\Hello World.exe
+C:\Users\jh145216\Desktop\Visual C#\Hello World\Hello World\bin\Debug\Hello World.pdb
+C:\Users\jh145216\Desktop\Visual C#\Hello World\Hello World\obj\Debug\Hello World.csprojResolveAssemblyReference.cache
