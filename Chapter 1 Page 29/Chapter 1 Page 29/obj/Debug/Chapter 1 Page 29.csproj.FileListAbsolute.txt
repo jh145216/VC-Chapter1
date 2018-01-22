@@ -1,0 +1,3 @@
+C:\Users\jh145216\AppData\Local\Temporary Projects\Chapter 1 Page 29\bin\Debug\Chapter 1 Page 29.exe.config
+C:\Users\jh145216\AppData\Local\Temporary Projects\Chapter 1 Page 29\obj\Debug\Chapter 1 Page 29.csprojResolveAssemblyReference.cache
+C:\Users\jh145216\Desktop\Visual C#\Chapter 1 Page 29\Chapter 1 Page 29\bin\Debug\Chapter 1 Page 29.exe.config
