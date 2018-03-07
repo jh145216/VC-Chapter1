@@ -1,1 +1,2 @@
 C:\Users\jh145216\AppData\Local\Temporary Projects\MusicTest2\bin\Debug\MusicTest2.exe.config
+C:\Users\jh145216\Desktop\Visual C#\VC-Chapter1\MusicTest2\MusicTest2\bin\Debug\MusicTest2.exe.config
