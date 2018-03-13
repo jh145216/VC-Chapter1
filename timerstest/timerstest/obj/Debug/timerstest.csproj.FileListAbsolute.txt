@@ -7,3 +7,6 @@ C:\Users\jh145216\AppData\Local\Temporary Projects\timerstest\obj\Debug\timerste
 C:\Users\jh145216\AppData\Local\Temporary Projects\timerstest\obj\Debug\timerstest.csproj.GenerateResource.Cache
 C:\Users\jh145216\AppData\Local\Temporary Projects\timerstest\obj\Debug\timerstest.exe
 C:\Users\jh145216\AppData\Local\Temporary Projects\timerstest\obj\Debug\timerstest.pdb
+C:\Users\jh145216\Desktop\Visual C#\VC-Chapter1\timerstest\timerstest\bin\Debug\timerstest.exe.config
+C:\Users\jh145216\Desktop\Visual C#\VC-Chapter1\timerstest\timerstest\obj\Debug\timerstest.exe
+C:\Users\jh145216\Desktop\Visual C#\VC-Chapter1\timerstest\timerstest\obj\Debug\timerstest.pdb
